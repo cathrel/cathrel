@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Michael Montero <img src="https://media.giphy.com/media/EzNwZBbRMFW01B4Cvu/giphy.gif" width="35"></h2>
 
-* _An 10th semester Software Engineering student at [UCLA](http://www.ucla.edu.ve/)._
+* _Software Engineer [UCLA](http://www.ucla.edu.ve/)._
 * _Enthusiastic about learning new software technologies and improve my current knowledge._
 
 <h2>Technologies and Languages <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"/></h2>
@@ -29,11 +29,22 @@ const Damurq = {
   code: [Javascript, HTML, CSS, Python, Java, C++, C#],
   tools: [React.js, React Native, Django, Express.js, Docker, Git],
   databases: [MySQL, PostgreSQL, MongoDB],
-  challenge: "Software Engineering 
+  challenge: "Software Engineer
               Universidad Centroccidental 'Lisandro Alvarado' 
               (UCLA)"
 }
 ```
+
+<h2>Social media <img src="https://media.giphy.com/media/ES5LNnivZfL72WROvF/giphy.gif" width="35"/></h2>
+
+[![Instagram](/assets/icons/instagram.png)](https://www.instagram.com/mike.0408/)
+[![LinkedIn](/assets/icons/linkedin.png)](www.linkedin.com/in/Damurq/)
+[![GitHub](/assets/icons/github.png)](https://github.com/Damurq)
+
+---
+
+_⌨️ with ❤️ by [@Damurq](https://github.com/Damurq)_
+
 
 <h2>Social media <img src="https://media.giphy.com/media/ES5LNnivZfL72WROvF/giphy.gif" width="35"/></h2>
 
